@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gymmembershipapp-dev-e4f83-authRole",
+      "UnauthRoleArn": "arn:aws:iam::767828750180:role/amplify-gymmembershipapp-dev-e4f83-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::767828750180:role/amplify-gymmembershipapp-dev-e4f83-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-gymmembershipapp-dev-e4f83-deployment",
+      "UnauthRoleName": "amplify-gymmembershipapp-dev-e4f83-unauthRole",
+      "StackName": "amplify-gymmembershipapp-dev-e4f83",
+      "StackId": "arn:aws:cloudformation:eu-north-1:767828750180:stack/amplify-gymmembershipapp-dev-e4f83/69381550-6f98-11ef-986e-0ed523338347",
+      "AmplifyAppId": "d2eogibrxc4haf"
+    },
+    "categories": {
+      "auth": {
+        "gymmembershipappb1d3a93b": {}
+      },
+      "storage": {
+        "GymMediaStorage": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "resourceName": "GymMediaStorage",
+  "policyUUID": "154b1dae",
+  "bucketName": "gymmembershipappd7c1308150e54c2e94d41c2583cb24f",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
